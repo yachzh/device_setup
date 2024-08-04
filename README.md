@@ -63,9 +63,10 @@ device.add_atoms(in_atoms=tip, offset=d_fepc_tip, atoms_pbc=True)
 # Write the device to a file
 io.write('device-%s.vasp' % spin, device.atoms)
 ```
-This example showcases the use of the device module to create a molecular junction model that includes a Fe(II) phthalocyanine molecule placed on a graphene-coated Ir(111) surface and a gold tip.
 
-![Device Model Image](images/device-is.png)
+This example showcases the use of the `device` module to create a molecular junction model that includes a Fe(II) phthalocyanine molecule placed on a graphene-coated Ir(111) surface and a gold tip.
+
+![Device Model Image](images/device-is.png){: width="400"}
 
 ## Functions
 ---------------
