@@ -66,7 +66,7 @@ io.write('device-%s.vasp' % spin, device.atoms)
 
 This example showcases the use of the `device` module to create a molecular junction model that includes a Fe(II) phthalocyanine molecule placed on a graphene-coated Ir(111) surface and a gold tip.
 
-<img src="images/device-is.png" width="200" alt="Device Model Image">
+<img src="images/device-is.png" width="300" alt="Device Model Image">
 
 ## Functions
 ---------------
