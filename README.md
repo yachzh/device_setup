@@ -15,7 +15,7 @@ pip install ase
 ## Example Usage
 ---------------
 
-The following example demonstrates how to use the device module to set up a molecular junction model, as investigated in the paper "Strong Electron-Vibration Signals in Weakly Coupled Molecular Junctions: Activation of Spin-Crossover" (Nano Letters, 2024, ASAP, doi: https://doi.org/10.1021/acs.nanolett.4c01684):
+The following example demonstrates how to use the device module to set up a molecular junction model, as investigated in the paper "Strong Electron-Vibration Signals in Weakly Coupled Molecular Junctions: Activation of Spin-Crossover" (Nano Letters 2024, 24, 9846-9853, doi: https://doi.org/10.1021/acs.nanolett.4c01684):
 
 ```python
 # Import necessary libraries
